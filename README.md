@@ -1,1 +1,1 @@
-# Proyecto Tarea 06 - PIAD 501
+ # Actualizado el mensaje en README.md
